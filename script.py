@@ -1,6 +1,8 @@
 import framework
 from time import sleep
 
+#test
+
 if __name__ == '__main__':
 	framework.start()
 	framework.record("a", framework.param('a'))
@@ -8,4 +10,3 @@ if __name__ == '__main__':
 	framework.record("b", framework.param('b'))
 	framework.stop()
 
-    
