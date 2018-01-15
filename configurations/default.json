@@ -1,1 +1,1 @@
-{"paramValues":{"a":[1,2,3],"b":[11,12,13],"test_parameter":[11,44,777],"str_param":[],"float_param":[]}}
+{"paramValues":{"a":[1,2,3],"b":[11,12,13],"test_parameter":[11,44,777],"str_param":["hallo"],"float_param":[1.2,1.4,1.7]}}
