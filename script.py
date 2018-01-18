@@ -1,6 +1,8 @@
 ### CFG int test_parameter [ms] "write description here..."
 ### CFG string str_param "write description here..."
 ### ENV float float_param "write description here..."
+### CFG int foo "write description here..."
+### CFG int bar "write description here..."
 import framework
 from time import sleep
 
